@@ -9,17 +9,17 @@ const Navbar = () => {
       <div className="navbar-links">
         <div>
           <NavLink to="/Men" end>
-            Men
+            Home
           </NavLink>
         </div>
         <div>
           <NavLink to="/Women" end>
-            Women
+            Popular Books
           </NavLink>
         </div>
         <div>
           <NavLink to="/kids" end>
-            Kids
+            Bookmarks
           </NavLink>
         </div>
         <div>
